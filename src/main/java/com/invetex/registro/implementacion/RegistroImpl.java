@@ -36,7 +36,7 @@ public class RegistroImpl implements InterfaceRegistro {
             }
 
             else {
-                return "Documento ya existe";
+                return "Documento digitadogit status ya existe";
             }
         }
 
